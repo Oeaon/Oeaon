@@ -10,6 +10,19 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<br />
+  
+I'm an Android developer with 2 years of experience building robust and scalable mobile applications. My core focus is native development using Kotlin and Java, either combining both in the same project or working with them independently, depending on the product’s needs.
 
-<br/>
+I've been involved in the full app development lifecycle — from architecture design and API integration to Google Play deployment. I'm experienced with MVVM architecture and tools like Jetpack (LiveData, ViewModel, Navigation), Retrofit, Room, Firebase, among others.
+
+I'm passionate about building efficient, user-centered solutions while following best development practices and maintaining clean, maintainable code.
+
+<br />
+ 
+
+<br>
+
 I'm currently based in **[Stuttgart, Germany](https://share.google/sGB0GY7sQfTb1UrYF)**
+
+</br>
