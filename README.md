@@ -10,6 +10,8 @@ I'm passionate about building efficient, user-centered solutions while following
 <br />
  
 I'm currently based in **[Stuttgart, Germany](https://share.google/sGB0GY7sQfTb1UrYF)**
+   <br />
+<h3 align="left">Social media:</h3>
    
 <a href="https://www.linkedin.com/in/joseramongamezappdeveloper/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
