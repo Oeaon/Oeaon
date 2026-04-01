@@ -3,17 +3,16 @@
  
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9lOXVicjQzdnIybnowdjdqYXF5enQzamppbXVoMXd4NHJiMTBxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BgJhTlRToqrAeUgc9T/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I'm an Android developer with 2 years of experience building robust and scalable mobile applications. My core focus is native development using Kotlin and Java, either combining both in the same project or working with them independently, depending on the product’s needs.
+I am a native Spanish speaker 🇪🇸, fluent in English 🇬🇧, and currently learning German 🇩🇪.
+* **I am interested in Backend and Mobile App's Development**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+  - Angular
+- ✔ Ask me about anything, I am happy to help! 😎<br>
+- Outside tech, 🥑​I love everything about trainning and healt, 📖 reading about Psychological thriller/horror, crime, psychology and history, 🎵 listen to music, and 🌲 explore nature outdoors.
+- 📫 Reach out to me at: <a href="joseramongamez4@gmail.com">joseramongamez4@gmail.com</a>
 <br />
  
 I'm currently based in Málaga, Spain
