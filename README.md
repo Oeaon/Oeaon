@@ -3,8 +3,6 @@
 
 I'm an Android developer with 2 years of experience building robust and scalable mobile applications. My core focus is native development using Kotlin and Java, either combining both in the same project or working with them independently, depending on the product’s needs.
 
-I've been involved in the full app development lifecycle — from architecture design and API integration to Google Play deployment. I'm experienced with MVVM architecture and tools like Jetpack (LiveData, ViewModel, Navigation), Retrofit, Room, Firebase, among others.
-
 I'm passionate about building efficient, user-centered solutions while following best development practices and maintaining clean, maintainable code.
 
 <br />
