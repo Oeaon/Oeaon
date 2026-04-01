@@ -1,4 +1,4 @@
-<div align="center">
+<div align="Left">
 <h2> Hi There! I'm Jose, welcome to my Github profile. <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 I'm an Android developer with 2 years of experience building robust and scalable mobile applications. My core focus is native development using Kotlin and Java, either combining both in the same project or working with them independently, depending on the product’s needs.
