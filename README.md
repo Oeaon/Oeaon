@@ -3,7 +3,7 @@
  
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://64.media.tumblr.com/0e90b634fa8533558a660a092dc88343/tumblr_oo3nm2yevm1w83qhyo1_500.gifv" width="60px">&nbsp;***About me***
+## <img src="https://64.media.tumblr.com/0e90b634fa8533558a660a092dc88343/tumblr_oo3nm2yevm1w83qhyo1_500.gifv" width="40px">&nbsp;***About me***
 
 I'm an Android developer with 2 years of experience building robust and scalable mobile applications. My core focus is native development using Kotlin and Java, either combining both in the same project or working with them independently, depending on the product’s needs.
 I am a native Spanish speaker 🇪🇸, fluent in English 🇬🇧, and currently learning German 🇩🇪.
