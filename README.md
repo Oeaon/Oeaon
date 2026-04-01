@@ -15,8 +15,8 @@ I am a native Spanish speaker 🇪🇸, fluent in English 🇬🇧, and currentl
 - Outside tech, 🥑​I love everything about trainning and healt, 📖 reading about Psychological thriller/horror, crime, psychology and history, 🎵 listen to music, 🎮 Videogames and 🌲 explore nature outdoors.
 - 📫 Reach out to me at: <a href="joseramongamez4@gmail.com">joseramongamez4@gmail.com</a>
 <br />
- 
-<a href="https://maps.app.goo.gl/cNZdcmTj7nnvg4Uw5">I'm currently based in Málaga, Spain</a> 
+
+ I'm currently based in <a href="https://maps.app.goo.gl/cNZdcmTj7nnvg4Uw5">Málaga, Spain</a> 
    <br />
 
 <br>
