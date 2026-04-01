@@ -9,7 +9,7 @@ I'm passionate about building efficient, user-centered solutions while following
 
 <br />
  
-I'm currently based in Málaga, Spain**
+I'm currently based in Málaga, Spain
    <br />
 <h3 align="left">Social media:</h3>
    
