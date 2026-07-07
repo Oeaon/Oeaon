@@ -12,6 +12,8 @@ I am a native Spanish speaker 🇪🇸, fluent in English 🇬🇧, and currentl
   - Angular
   - Flutter
   - Dart
+  - C++
+  - Arduino
 
 - ✔ Ask me about anything, I am happy to help! 😎<br>
 - Outside tech, 🥑​I love everything about trainning and healt, 📖 reading about Psychological thriller/horror, crime, psychology and history, 🎵 listen to music, 🎮 Videogames and 🌲 explore nature outdoors.
