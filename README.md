@@ -12,6 +12,7 @@ I am a native Spanish speaker 🇪🇸, fluent in English 🇬🇧, and currentl
   - Flutter & Dart
   - Kotlin
   - Jetpack Compose
+  - React Native
    
 
 - ✔ Ask me about anything, I am happy to help! 😎<br>
