@@ -8,12 +8,11 @@
 I'm an Android developer with 3 years of experience building robust and scalable mobile applications. My core focus is native app development using Kotlin and Java, either combining both in the same project or working with them independently, depending on the product’s needs.
 I am a native Spanish speaker 🇪🇸, fluent in English 🇬🇧, and currently learning German 🇩🇪.
 * **I am interested in Backend and Mobile App's Development**
-- 🌱 I’m currently learning ...
-  - Angular
-  - Flutter
-  - Dart
-  - C++
-  - Arduino
+- 🌱 I’m currently working with...
+  - Flutter & Dart
+  - Kotlin
+  - Jetpack Compose
+   
 
 - ✔ Ask me about anything, I am happy to help! 😎<br>
 - Outside tech, 🥑​I love everything about trainning and healt, 📖 reading about Psychological thriller/horror, crime, psychology and history, 🎵 listen to music, 🎮 Videogames and 🌲 explore nature outdoors.
