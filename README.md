@@ -17,9 +17,29 @@ I'm currently specializing in **Artificial Intelligence and Big Data** (Python, 
 - I'm currently learning...
   - Machine Learning, AutoML & Azure Machine Learning (Master's in AI & Big Data)
   - React Native
-- Native Spanish speaker, fluent in English (B2 First, currently preparing C1 Cambridge)
+- Native Spanish speaker, fluent in English (B2 First, currently preparing C1 Cambridge). I lived in Germany for a while to improve my English
 - Ask me about anything, I'm happy to help!
 - Based in [Málaga, Spain](https://maps.app.goo.gl/cNZdcmTj7nnvg4Uw5)
+
+<br>
+
+## Projects
+
+**[My Training Path](https://play.google.com/store/apps/details?id=com.mytrainingpath.app)** · *Flutter, Firebase*
+- All-in-one fitness app: workout routines with 870+ exercises, set-by-set tracking and rest timer.
+- Nutrition with calorie and macro targets, personal-record alerts and a social side (friends, weekly streaks, ranks).
+- Designed, built and published end to end; available in **12 languages**.
+
+<a href="https://play.google.com/store/apps/details?id=com.mytrainingpath.app"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
+
+**[HydroDaily](https://play.google.com/store/apps/details?id=com.oeaon.hydrodaily)** · *Android, Kotlin*
+- Daily water-intake tracker with reminders, Firebase backend and AdMob monetization.
+- Built with native components and pure Kotlin; available in **8 languages**.
+
+<a href="https://play.google.com/store/apps/details?id=com.oeaon.hydrodaily"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
+
+**Coming to the App Store** · *Flutter, iOS*
+- [Sueldo Neto](https://github.com/Oeaon/sueldo-neto-versionIOS) · [Calendario Laboral](https://github.com/Oeaon/calendario-laboral-versionIOS) · [Gasolina Barata](https://github.com/Oeaon/gasolina-barata-versionIOS) · [Luz Barata](https://github.com/Oeaon/luz-barata-versionIOS) · [Tests Oposiciones](https://github.com/Oeaon/tests-oposiciones-versionIOS) · [HydroDaily](https://github.com/Oeaon/HydroDaily-versionIOS)
 
 <br>
 
@@ -47,6 +67,7 @@ I'm currently specializing in **Artificial Intelligence and Big Data** (Python, 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
@@ -62,6 +83,7 @@ I'm currently specializing in **Artificial Intelligence and Big Data** (Python, 
 
 <h3 align="left">Web & backend:</h3>
 <p>
+<img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
